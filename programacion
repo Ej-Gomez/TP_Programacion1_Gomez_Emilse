@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/tu_usuario/tu_repo.git
-git add .
-git commit -m "Primer commit - sistema competencia de baile"
-git push -u origin master
